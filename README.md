@@ -21,6 +21,7 @@ View products for sale IMAGES
 ![ScreenShot](https://raw.github.com/lorella17/bamazon/master/bamazoncustomer_app.png?raw=true)
 ![ScreenShot](https://raw.github.com/lorella17/bamazon/master/customer_total.png?raw=true)
 
+
 View low inventory
 Add to inventory
 Add a new product
