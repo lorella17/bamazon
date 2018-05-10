@@ -13,4 +13,7 @@ CREATE TABLE products(
   PRIMARY KEY (item_id)
 );
 
-SELECT * FROM bamazon_;
+
+
+SELECT * FROM products;
+
